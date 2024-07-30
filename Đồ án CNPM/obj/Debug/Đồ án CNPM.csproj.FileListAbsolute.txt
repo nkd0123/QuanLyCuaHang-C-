@@ -1,0 +1,37 @@
+D:\desktop\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.exe.config
+D:\desktop\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.exe
+D:\desktop\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.pdb
+D:\desktop\Đồ án CNPM\Đồ án CNPM\bin\Debug\Guna.UI2.dll
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.AssemblyReference.cache
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.Properties.Resources.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.GenerateResource.cache
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.CoreCompileInputs.cache
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.CopyComplete
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.exe
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.pdb
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.DangNhap.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.FormAdmin.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_Kho.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_HoaDon.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_NhapHang.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_KhachHang.resources
+D:\desktop\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_Admin.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.exe.config
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.exe
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\bin\Debug\Đồ án CNPM.pdb
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\bin\Debug\Guna.UI2.dll
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.AssemblyReference.cache
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.SuggestedBindingRedirects.cache
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.DangNhap.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.FormAdmin.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.Properties.Resources.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_Admin.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_HoaDon.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_KhachHang.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_Kho.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ_án_CNPM.UC_Controls.UC_NhapHang.resources
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.GenerateResource.cache
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.CoreCompileInputs.cache
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.csproj.CopyComplete
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.exe
+D:\cnpm\Đồ án CNPM\Đồ án CNPM\obj\Debug\Đồ án CNPM.pdb
